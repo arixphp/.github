@@ -1,7 +1,5 @@
 # Application Runtime Instant eXecution
 
-<a href="https://github.com/arixphp/app"><img src="https://img.shields.io/packagist/l/arixphp/app" alt="License"></a>
-
 ArixPHP is a PHP application skeleton that provides a starting point for building your own web applications. It includes an application structure and a bundled framework core, with routes, controllers, views, and translations you can customize for your project.
 
 ## Learning Arix
