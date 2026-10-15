@@ -4,7 +4,7 @@ Arix is ​​a PHP micro-framework designed for creating and deploying lightwei
 
 ## Learning Arix
 
-You can learn about ArixPHP in the official [documentation](https://arix.omarbarbosa.com) and discover the power of asynchronous and concurrent applications in native PHP.
+You can learn about ArixPHP in the official [documentation](https://arix.omarbarbosa.com).
 
 ## Security Vulnerabilities
 
