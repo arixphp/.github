@@ -1,6 +1,6 @@
 # Application Runtime Instant eXecution
 
-ArixPHP is a PHP application skeleton that provides a starting point for building your own web applications. It includes an application structure and a bundled framework core, with routes, controllers, views, and translations you can customize for your project.
+Arix is ​​a PHP micro-framework designed for creating and deploying lightweight websites on traditional hosting environments, without relying on SSH, Composer, Node.js, or build processes. It keeps `index.php` in the root directory—much like WordPress—and separates the deployable application from a development CLI that generates, tests, and updates its core; it is geared toward primarily static projects, featuring basic HTTP support and an `AI-first` workflow.
 
 ## Learning Arix
 
